@@ -43,3 +43,7 @@
 	background-color: #f9f9f9;
 	margin-top: 15px;
 }
+
+#sysinfo .wp-list-table .fixed.label {
+	width: 25%;
+}
